@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
+Sr No,Division Name as per MIS Data Available in 2017,Name of District,Name of Block as per MIS Data Available in 2017,Name of Scheme Village as per MIS Data Available in 2017,Scheme ID as per MIS Data Available in 2017,Village covered under scheme as per MIS Data Available in 2017,Village ID as per MIS Data Available in 2017,Aluminium,Lead,Selenium,Chromium,Mercury,Arsenic,Cadmium,Nickel,Iron,Uranium in One,Flouride,Chloride,Nitrate,Sulphate,Calcium,Magnesium,Sodium,Potasium,TDS
+,,,,,,,,0.03 mg/l (A),0.01 mg/l (A),0.01 mg/l (A),0.05 mg/l (A),0.001 mg/l (A),0.01 mg/l (A),0.003 mg/l (A),0.02 mg/l (A),1.0 mg/l (A),30  µg/l,1.0 mg/l (A),250 mg/l,45 mg/l (A),200 mg/l,75 mg/l,30 mg/l,-,-,500 mg/l (A)
+,,,,,,,,0.2 mg/l (p),No Relexation (P),No Relexation (P),No Relexation (P),No Relexation (P),No Relexation (P),No Relexation (P),No Relexation (P),No Relexation (P),60 µg/l),1.5 mg/l (P),1000 mg/l,No Relexation (P),400 mg/l,200 mg/l,100 mg/l,-,-,2000 mg/l (P)
+1,"Amritsar,Div-3",Amritsar,Attari,Bagarian,HP1252,Bagrian,3091,0,0.011,0,0,0,0,0,0,14.585,17.400,0.24,,6.10,,,,,,693
+2,"Amritsar,Div-3",Amritsar,Attari,Nodh Singh (Chicha),HP4020,Chicha Nodh Singh,14486,0,0.037,0.005,0,0,0,0,0,2.280,0.400,0.33,,37.20,,,,,,747
+3,"Amritsar,Div-2",Amritsar,Jandiala Guru,Abadi Dakhla Khu (Gehri),HP1009,Abadi Dakhla Khu,14334,0.601,0.053,0,0,0,0,0,0,,15.400,,,,,,,,,
+4,"Amritsar,Div-2",Amritsar,Jandiala Guru,Abadi Dakhla Khu (Gehri),HP1009,Abadi Khu Guru Arjan,14337,0.601,0.053,0,0,0,0,0,0,,15.400,,,,,,,,,
+,,,,,,Dev Ji,,,,,,,,,,,,,,,,,,,,
+5,"Amritsar,Div-2",Amritsar,Jandiala Guru,Abadi Dakhla Khu (Gehri),HP1009,Abadi Surjan Singh Wala,14338,0.601,0.053,0,0,0,0,0,0,,15.400,,,,,,,,,
+6,"Amritsar,Div-2",Amritsar,Jandiala Guru,Abadi Dakhla Khu (Gehri),HP1009,Abadi Teja Singh,,0.601,0.053,0,0,0,0,0,0,,15.400,,,,,,,,,
+7,"Amritsar,Div-2",Amritsar,Jandiala Guru,Abadi Dakhla Khu (Gehri),HP1009,Wala,14336,0.601,0.053,0,0,0,0,0,0,,15.400,,,,,,,,,
+8,"Amritsar,Div-2",Amritsar,Jandiala Guru,Bhagwan,TW1519,Bhangwan,12744,0.297,0.003,0.000,0.001,BDL,0.008,0.000,BDL,0.331,15.063,,,,,,,,,
+9,"Amritsar,Div-2",Amritsar,Jandiala Guru,Rakh Manawala (Bandala),HP13487,Abadi Joga Singh Wala,14918,0,0.017,0,0,0,0,0,0,2.820,0.400,0.41,,4.20,,,,,,305
+10,"Amritsar,Div-2",Amritsar,Jandiala Guru,Rakh Manawala (Bandala),HP13487,Abadi Nandwala Nawan Pind,14919,0,0.017,0,0,0,0,0,0,2.820,0.400,0.41,,4.20,,,,,,305
